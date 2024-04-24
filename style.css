@@ -5,6 +5,10 @@
     padding: 0; 
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 html,
 body {
     width: 100%;
@@ -53,4 +57,10 @@ section {
     padding: 150px;
     margin-left: 260px;
     border: solid #93a0c6 1px;
+}
+
+
+.active {
+    color: lime; 
+    font-weight: 600;
 }
