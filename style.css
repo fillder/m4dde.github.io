@@ -53,7 +53,6 @@ nav a:active {
 
 section {
     display: grid;
-    justify-content: flex-end;
     padding: 150px;
     margin-left: 260px;
     border: solid #93a0c6 1px;
